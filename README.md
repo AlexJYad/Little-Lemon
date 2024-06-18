@@ -20,7 +20,7 @@ This project showcases modern web design techniques, focusing on the implementat
 ### Key Features
 
 + **CSS Grid Layout:** Demonstrates proficiency in creating complex, responsive layouts using CSS Grid.
-+ **Flexbox:** Utilizes Flexbox for enhanced control over alignment and distribution of elements within layouts.
++ **Flexbox:** Utilizes Flexbox for enhanced control over the alignment and distribution of elements within layouts.
 + **HTML Structure:** Implements semantic HTML5 markup to ensure accessibility and SEO best practices.
 
 ## Project Preview
@@ -38,7 +38,7 @@ little-lemon/
 ├── img/                # Directory for project images
 │   ├── logo/           # Directory for logos
 │   └── main/           # Directory for main images
-└── image.png          # image for README file
+└── image.png           # image for README file
 ```
 
 ## Technologies Used
